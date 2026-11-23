@@ -1,0 +1,1 @@
+{"name":"custom-models-api","vers":"0.1.0","deps":[{"name":"strawberry-plugin-api","req":"=0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9fcaa73b1c1f876c98806bdccb17ef7afb01c83960aa2d0ddee72d4ca04cfa5","features":{},"yanked":false}

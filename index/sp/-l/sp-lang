@@ -1,0 +1,1 @@
+{"name":"sp-lang","vers":"0.1.0","deps":[{"name":"strawberry-plugin-api","req":"=0.2.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b55b770adeda006cc03e8604597820d90d7176c233ef3eab0cc425c8b403c84","features":{},"features2":{"engine":["dep:strawberry-plugin-api"]},"v":2,"yanked":false}

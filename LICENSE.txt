@@ -1,0 +1,83 @@
+STRAWBERRY PLUGIN SDK LICENCE
+Version 1.1 of 23 November 2026
+Copyright (c) 2026 Strawberry Interactive LLC. All rights reserved.
+
+This licence is an agreement between you and Strawberry Interactive LLC, a Wyoming limited liability
+company ("we", "us"). You accept it by ticking the acceptance box on the "Get the SDK" page of our
+documentation, by accepting it when the Creator Kit asks you, or by downloading, installing or using
+the SDK in any other way. You must be 18 or older. If you accept for an organisation, you confirm that
+you may bind it, and "you" means the organisation.
+
+1. Definitions
+   "SDK": every package that we publish with this licence in it (among them the strawberry-plugin-api
+   crate and the Creator Kit programs strawberry-kit and strawberry-kit-mcp), their source code, the
+   plugin interface definitions in wit/, their documentation, and every update of them that we provide.
+   "Third-Party Material": the parts of the SDK listed in THIRD-PARTY-NOTICES.md. They are licensed
+   to you under the licences named there (LICENSE-MIT, LICENSE-APACHE, wit/LICENSE-MIT,
+   wit/LICENSE-APACHE, wit/LICENSE-MIT-MICROSOFT), not under this licence.
+   "Our Material": the SDK without the Third-Party Material, and the SDK as a whole package.
+   "Strawberry": the Strawberry server software and the Play Strawberry platform that we operate.
+   "Your Plugin": a plugin or other program that you write with the SDK.
+
+2. Third-Party Material
+   Nothing in this licence limits, restricts or adds conditions to your rights in the Third-Party
+   Material under its own licence. You may use the Third-Party Material for anything its licence
+   allows, including with other software and platforms. Every restriction in this licence applies
+   to Our Material only.
+
+3. What you may do
+   We grant you a free, worldwide, non-exclusive, non-transferable licence, without the right to
+   sublicense, to download, install and use Our Material to develop, build and test Your Plugins for
+   Strawberry; to submit Your Plugins to Play Strawberry; and to let the code of Our Material become
+   part of Your Plugins as built for Strawberry.
+
+4. Strawberry only
+   Our Material, and every plugin or other program that contains or is built with Our Material, may
+   be used only with Strawberry. You may not use, run, distribute, sell or offer them for, or adapt or
+   port them to, any other server software, game server, platform or service. You may not use Our
+   Material to build software that lets plugins built with it run anywhere other than Strawberry.
+   Your own code stays yours (section 6): you may use it anywhere once it no longer contains or
+   depends on Our Material.
+
+5. What you may not do
+   Except as section 3 allows, you may not copy, publish, distribute, sublicense, sell, rent or lend
+   Our Material, publish changed versions of it, or remove or change its copyright and licence
+   notices.
+
+6. Your plugins
+   Your Plugins are yours. This licence gives us no rights in them. Publishing a plugin on Play
+   Strawberry needs the Play Strawberry Developer Agreement, which says which rights you give us then.
+
+7. Rights the law gives you
+   This licence does not limit any right that applicable law gives you and that cannot be excluded by
+   contract, for example to make programs work together.
+
+8. Ownership
+   Our Material is licensed, not sold. We keep every right that this licence does not expressly grant.
+
+9. New versions and end
+   We may publish new versions of this licence. A new version applies to the SDK versions that you
+   download or accept after it was published. This licence ends automatically if you breach it. When
+   it ends, stop using Our Material and delete your copies of it. Plugins already published on Play
+   Strawberry stay governed by the Developer Agreement.
+
+10. No warranty
+   The SDK is free of charge and provided "as is", without any warranty, as far as the law allows.
+
+11. Liability
+   As far as the law allows, we are not liable for any loss or damage that arises from the SDK. This
+   does not apply to harm we cause on purpose or by gross negligence, to fraud, to death or personal
+   injury caused by our negligence, or to any liability that the law of your country does not allow
+   us to limit or exclude.
+
+12. Law and disputes
+   Wyoming law applies, subject to the mandatory protections of your country. Disputes are handled as
+   section 14 ("Law and disputes") of the Play Strawberry Terms of Service describes (Terms 3.5, published
+   21 October 2026).
+
+13. Record of acceptance
+   We do not keep a record of your acceptance. The "Get the SDK" page keeps your tick in your own
+   browser, and the Creator Kit keeps the licence version you accepted and the time on your own
+   computer, so that each asks you again only when a new version of this licence comes. Neither is
+   sent to us. Records of acceptances given on our former download page (licence version 1.0) are
+   kept as our Privacy Policy describes.
